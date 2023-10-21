@@ -1,6 +1,9 @@
 import discord
+from discord.ext import commands
 
-client = discord.Client(intents=discord.Intents().all())
+client = commands.Bot(help_command=None,
+                      command_prefix="",
+                      intents=discord.Intents().all())
 
 @client.tree.command(name="badge")
 async def _badge(interaction: discord.Interaction):
