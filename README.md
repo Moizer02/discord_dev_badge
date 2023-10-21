@@ -14,7 +14,7 @@ You can take your Discord Active Developer Badge here
 - Add the bot to your server
 - Go to Bot and Reset Token, save your token for later
 ![](https://i.imgur.com/JWNrnQk.png)
-- Install Python 3.11 from [Python](https://www.python.org/)
+- Install Python 3.11 from [Python](https://www.python.org/downloads/release/python-3116/)
 - Execute in terminal `pip install discord`
 - Execute the badge.py file and paste the token into the console
 - Wait until you can claim your badge on [Discord Badge Site](https://discord.com/developers/active-developer)
